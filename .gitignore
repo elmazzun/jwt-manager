@@ -1,0 +1,4 @@
+data.db
+test.db
+.env
+node_modules
